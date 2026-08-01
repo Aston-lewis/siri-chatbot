@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# IDE settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Piper TTS binaries and voice models
+piper/
+
+# Downloaded AI models
+models/
+
+# Generated audio files
+*.wav
