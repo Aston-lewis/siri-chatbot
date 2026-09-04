@@ -1,0 +1,7 @@
+faster-whisper
+numpy
+ollama
+openwakeword
+psutil
+scipy
+sounddevice
